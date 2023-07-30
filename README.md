@@ -1,6 +1,6 @@
 <br>
 
-The "**biodiversity.pdf**" is the file to read. It is essentially the same as "biodiversity.ipynb", only in PDF format. Conversion was done using "cloudconvert.com". It isn't ideal, but it contains everything and it is not out of margins.<br>
+The "**biodiversity.pdf**" is the file to read. It is essentially the same as "biodiversity.ipynb", only in PDF format.<br>
 
 The "**biodiversity.ipynb**" contains all the information and code for the project.<br>
 The "**biodiversity.csv**" contains the cleaned and merged data from "**observations.csv**" and "**species_info.csv**", which was curated by **National Parks Service** (https://www.nps.gov/index.htm).
